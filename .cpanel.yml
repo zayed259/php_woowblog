@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/craccgxq/blog.crackit-bd.com
+    - /bin/cp * $DEPLOYPATH

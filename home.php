@@ -28,8 +28,8 @@ require_once 'assets/inc/header.php';
             <div class="card shadow mb-3">
                 <div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
                     <div>
-                        <h6 class="m-0 font-weight-bold text-primary">Dropdown Card Example</h6>
-                        <h6 class="m-0 p-0">User Name <span class=""> | 10 August 2022</span></h6>
+                        <h6 class="m-0 font-weight-bold text-primary">Dropdown Card Example 2</h6>
+                        <h6 class="m-0 p-0">User Name <span class=""> | 15 August 2023</span></h6>
                     </div>
 
                     <div class="dropdown no-arrow">
